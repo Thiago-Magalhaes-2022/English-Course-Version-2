@@ -1,0 +1,34 @@
+img
+{
+    max-width: 100%;
+}
+.article-card {
+    display: flex;
+    flex-direction: row;
+    justify-content: stretch;
+    
+
+}
+
+.article-image {
+    background-size: 60%;
+    margin: 20;
+    padding: 20;
+    overflow: hidden;
+    
+}
+
+.article-content
+{
+    display: grid;
+    padding: 20px;
+}
+
+.article-image img {
+    display: block;
+    block-size: auto;
+    justify-content: center;
+    max-width: 75%;
+    height: 75%;
+    
+}

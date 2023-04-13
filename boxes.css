@@ -1,0 +1,38 @@
+.box1
+{
+    display: flex;
+    width: 300px 1;
+    margin: 40px;
+    padding: 20px;
+    background-color: darkblue;
+    text-align: center;
+    justify-content: center;
+}
+
+
+  
+
+.box2
+{   display: flex;
+    width: 400px 2;
+    margin: 40px;
+    padding: 20px;
+    background-color: darkblue;
+    display: inline-flex;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aquamarine;
+}
+    
+
+
+.box3
+{
+    width: 200px;
+    margin: 20px;
+    padding: 50px;
+    background-color: darkblue;
+    display: inline-flex;
+    text-align: center;
+}
+    
